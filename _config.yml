@@ -2,10 +2,10 @@
 title: Costa Rica Diary
 SEOTitle: Costa Rica Diary
 header-img: img/home-bg.jpg
-email: rangonomics@gmail.com
+email: john784326@gmail.com
 description: "Costa Rica Diary"
 keyword: "Costa Rica Diary, Github Pages, Web, JavaScript, React, React Native"
-url: "guilyx.github.com" # your host, for absolute URL
+url: "john784326-source.github.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -67,11 +67,11 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "G-L60Z89VR35" # Format: UA-xxxxxx-xx
-ga_domain: guilyx.github.io
+ga_domain: john784326-source.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Rango <br> Swarm Team @ ATRC"
+sidebar-about-description: "John <br> "
 sidebar-avatar: https://github.com/guilyx.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
